@@ -6,7 +6,7 @@
 //  Copyright © 2021 Roy Marmelstein. All rights reserved.
 //
 
-#if canImport(UIKit)
+#if canImport(UIKit) && os(iOS)
 
 import Foundation
 import UIKit
